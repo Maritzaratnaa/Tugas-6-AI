@@ -11,5 +11,5 @@ Library yang digunakan adalah:
 + pillow
 + numpy  
 
-![Website](https://colorpalettepicker.streamlit.app/)
+[Website](https://colorpalettepicker.streamlit.app/)
 ![Contoh](Contoh.png)
