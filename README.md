@@ -13,5 +13,6 @@ Library yang digunakan adalah:
 
 [Link Website]  
 [Website](https://colorpalettepicker.streamlit.app/)  
-[Contoh]  
-(Contoh.png)
+
+Contoh
+[Contoh](Contoh.png)
