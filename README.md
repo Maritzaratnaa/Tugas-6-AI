@@ -15,4 +15,4 @@ Library yang digunakan adalah:
 [Website](https://colorpalettepicker.streamlit.app/)  
 
 Contoh
-[Contoh](Contoh.png)
+![Contoh](Contoh.png)
